@@ -5,3 +5,6 @@
 tags
 wms_frappe/docs/current
 node_modules/
+
+dist/
+__pycache__/

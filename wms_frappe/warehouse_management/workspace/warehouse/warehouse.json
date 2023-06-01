@@ -1,0 +1,36 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"mjTmKlyblT\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Warehouse</span>\",\"col\":12}},{\"id\":\"3B2G18O8mh\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Register Tracking\",\"col\":3}}]",
+ "creation": "2023-06-01 14:41:23.443740",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "change",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Warehouse",
+ "links": [],
+ "modified": "2023-06-01 14:48:25.899581",
+ "modified_by": "Administrator",
+ "module": "Warehouse Management",
+ "name": "Warehouse",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "Register Tracking",
+   "link_to": "Tracking",
+   "type": "DocType"
+  }
+ ],
+ "title": "Warehouse"
+}
