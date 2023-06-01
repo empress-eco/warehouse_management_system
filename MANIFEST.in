@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include wms_frappe *.css
+recursive-include wms_frappe *.csv
+recursive-include wms_frappe *.html
+recursive-include wms_frappe *.ico
+recursive-include wms_frappe *.js
+recursive-include wms_frappe *.json
+recursive-include wms_frappe *.md
+recursive-include wms_frappe *.png
+recursive-include wms_frappe *.py
+recursive-include wms_frappe *.svg
+recursive-include wms_frappe *.txt
+recursive-exclude wms_frappe *.pyc
